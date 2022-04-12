@@ -2,7 +2,7 @@ Go to the submit part of config.json and choose wich type of message you want to
 
 Check Explainations.md for all variables
 
-In my case i want to write Thanks (username) for your submission
+In my case i want to write Thanks (username) for your submission!
 
 To do this i will have to use the {user.name} variable.
 
