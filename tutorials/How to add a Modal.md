@@ -11,7 +11,7 @@ Example:
 ![image](https://user-images.githubusercontent.com/55946112/163072197-70d36751-bef6-4ecf-bcd1-886cadc26443.png)
 
 # Copy
-![image](https://user-images.githubusercontent.com/55946112/163071996-ea7ecc46-2100-447f-a638-72bb0bcf361d.png)
+![image](https://user-images.githubusercontent.com/55946112/163072451-74d26b30-f056-477f-afc8-0578203cd37d.png)
 
 # Paste and rename
 ![image](https://user-images.githubusercontent.com/55946112/163072032-4515be8b-9f0a-4a77-be16-9cecb5878489.png)
