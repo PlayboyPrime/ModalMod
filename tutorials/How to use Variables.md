@@ -8,7 +8,7 @@ To do this i will have to use the {user.name} variable.
 
 Example:
 
-![image](https://user-images.githubusercontent.com/55946112/162887259-57123da7-88c5-48a3-84c3-8dfaf208d8ec.png)
+![image](https://user-images.githubusercontent.com/55946112/163072576-e47ebdbe-ed8b-4753-b605-e90374b52200.png)
 
 
 # Results
