@@ -1,7 +1,7 @@
 # CONFIG EXPLANATION
 
 
-submit
+# submit
 
 replyToinIeraction
 
