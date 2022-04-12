@@ -46,7 +46,7 @@ If replyToinIeraction.message is not empty, the bot will send a reply to the sub
 
 ephemeral: If true, only the Modal author can see the reply.
 
-message: This string will be sent in the interaction channel as a reply to the submit interaction.
+message: This string will be sent as a reply to the submit interaction.
 
 
 ## sendMessage 
