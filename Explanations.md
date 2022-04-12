@@ -45,12 +45,14 @@ Title: This will be the Modal Title.
 CustomId: This will be the customId for the Modal. You can set this to anything.
 
 
-# addComponents You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 etc) 
+# addComponents
 
 ![image](https://user-images.githubusercontent.com/55946112/162880498-76e024c3-f85c-4bd9-9c2d-037b6fccc654.png)
 
 
 
+
+ You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 etc) 
 
 # TextInputComponent
 
