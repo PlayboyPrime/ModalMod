@@ -1,5 +1,4 @@
 # Spoilers. THESE ARE CHANGABLE
-![image](https://user-images.githubusercontent.com/55946112/162888803-720d2058-781e-4ccf-9382-706fe7d30cdf.png)
 
 ![image](https://user-images.githubusercontent.com/55946112/162889025-eba8a108-8fc5-454f-89a4-79f4ac0984cd.png)
 
