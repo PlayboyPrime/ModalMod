@@ -11,7 +11,7 @@ Dont forget rename it and add an comma!
 
     "submit": {
 
-        "replyToinIeraction": {
+        "replyToInteraction": {
             "ephemeral": "",
             "message": ""
         },
@@ -54,7 +54,7 @@ Dont forget rename it and add an comma!
 
     "submit": {
 
-        "replyToinIeraction": {
+        "replyToInteraction": {
             "ephemeral": "",
             "message": ""
         },
@@ -91,7 +91,7 @@ Dont forget rename it and add an comma!
 
         "submit": {
 
-            "replyToinIeraction": {
+            "replyToInteraction": {
                 "ephemeral": "",
                 "message": ""
             },
