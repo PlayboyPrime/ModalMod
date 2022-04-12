@@ -4,6 +4,8 @@ Go to the config.json file and navigate to interactionCustomId of the modal you 
 
 Now paste the customId of the button you want to use inside of "".
 
+Example:
+
 # Copy button customId
 ![image](https://user-images.githubusercontent.com/55946112/162882710-d1dc34e3-b47e-4678-865d-699a691057e8.png)
 
