@@ -33,7 +33,8 @@ message: This will be the message content. Leave this blank for no message.
 
 # interactionCustomId: If a button interaction is triggerd with this customId, then this modal will be shown. 
 
-![image](https://user-images.githubusercontent.com/55946112/162879082-946cca4b-6de2-47c0-95f7-980b3223c2ea.png)
+![image](https://user-images.githubusercontent.com/55946112/162880475-9281be9b-2a9a-4e09-888f-3be80620a989.png)
+
 
 
 
@@ -45,7 +46,7 @@ CustomId: This will be the customId for the Modal. You can set this to anything.
 
 # addComponents You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 etc) 
 
-![image](https://user-images.githubusercontent.com/55946112/162878556-df20d151-051a-49ae-b671-1ba87aa3a477.png)
+![image](https://user-images.githubusercontent.com/55946112/162880498-76e024c3-f85c-4bd9-9c2d-037b6fccc654.png)
 
 
 
