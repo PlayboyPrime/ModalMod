@@ -1,6 +1,6 @@
 First you have to navigate to the config.json file.
 
-Then copy an already exisiting TextInputComponent and paste it under it and rename it correctly.
+Then copy an already exisiting TextInputComponent and paste it under it and rename it upcounting(TextInputComponent1, TextInputComponent2 and so on).
 
 Now after the bracket of the component above you have to type an comma.
 
