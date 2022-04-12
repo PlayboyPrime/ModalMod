@@ -31,7 +31,7 @@ channelId: This will be the channelId where the message will be sent. Leave this
 message: This will be the message content. Leave this blank for no message.
 
 
-
+# Modal properties
 ![image](https://user-images.githubusercontent.com/55946112/162880475-9281be9b-2a9a-4e09-888f-3be80620a989.png)
 
 
