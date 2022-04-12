@@ -1,3 +1,5 @@
+# You can find the modules in [copypasta](https://github.com/PlayboyPrime/ModalMod/tree/main/copypasta)
+
 First you have to navigate to the config.json file.
 
 Then copy an already exisiting TextInputComponent and paste it under it and rename it upcounting(TextInputComponent1, TextInputComponent2 and so on).
