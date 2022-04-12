@@ -83,3 +83,40 @@ Dont forget to add an comma!
 }
 ```
 
+## Config.json standard
+
+```json
+{
+    "modal1": {
+
+        "submit": {
+
+            "replyToinIeraction": {
+                "ephemeral": "",
+                "message": ""
+            },
+
+            "sendMessage": {
+                "channelId": "",
+                "message": ""
+            }
+        },
+
+        "interactionCustomId": "",
+        "Title": "",
+        "CustomId": "",
+        "addComponents": {
+
+            "TextInputComponent1": {
+                "CustomId": "",
+                "Label": "",
+                "Style": "",
+                "MinLength": "",
+                "MaxLength": "",
+                "Placeholder": "",
+                "Required": ""
+            }
+        }
+    }
+}
+```
