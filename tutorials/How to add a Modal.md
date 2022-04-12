@@ -1,6 +1,6 @@
 First you have to navigate to the config.json file.
 
-Then you have to copy a modal and paste it after the second last bracket and rename it correctly.
+Then you have to copy a modal and paste it after the second last bracket and rename it upcounting (modal1, modal2 and so on).
 
 Finnaly add a comma after the bracket from the modal above.
 
