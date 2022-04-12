@@ -10,7 +10,7 @@ replyToinIeraction
 
 
 
-If replyToinIeraction.message is not empty, the bot will send the reply to the submit interaction.
+If replyToinIeraction.message is not empty, the bot will send a reply to the submit interaction.
 
 ephemeral: If true, only the Modal author can see the reply.
 
@@ -24,7 +24,7 @@ sendMessage
 
 
 
-If sendMessage.channelId and sendMessage.message is not empty, the bot will send an message to a channel.
+If sendMessage.channelId and sendMessage.message is not empty, the bot will send a message to a channel.
 
 channelId: This will be the channelId where the message will be sent. Leave this blank for no message.
 
