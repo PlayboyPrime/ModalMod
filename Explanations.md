@@ -3,7 +3,7 @@
 
 # submit
 
-replyToinIeraction
+# replyToinIeraction
 
 ![image](https://user-images.githubusercontent.com/55946112/162878422-151491f4-dbe2-4121-a856-b443ecbf52a8.png)
  
@@ -17,7 +17,7 @@ ephemeral: If true, only the Modal author can see the reply.
 message: This string will be sent in the interaction channel as a reply to the submit interaction.
 
 
-sendMessage 
+# sendMessage 
 
 ![image](https://user-images.githubusercontent.com/55946112/162878468-1cb60ea1-f026-48c0-a1c3-a77eb122b014.png)
 
@@ -31,7 +31,7 @@ channelId: This will be the channelId where the message will be sent. Leave this
 message: This will be the message content. Leave this blank for no message.
 
 
-interactionCustomId: If a button interaction is triggerd with this customId, then this modal will be shown. 
+# interactionCustomId: If a button interaction is triggerd with this customId, then this modal will be shown. 
 
 ![image](https://user-images.githubusercontent.com/55946112/162879082-946cca4b-6de2-47c0-95f7-980b3223c2ea.png)
 
@@ -43,14 +43,14 @@ Title: This will be the Modal Title.
 CustomId: This will be the customId for the Modal. You can set this to anything.
 
 
-addComponents You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 etc) 
+# addComponents You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 etc) 
 
 ![image](https://user-images.githubusercontent.com/55946112/162878556-df20d151-051a-49ae-b671-1ba87aa3a477.png)
 
 
 
 
-TextInputComponent
+# TextInputComponent
 
 
 CustomId: This will be the customId for the TextInputComponent. You can set this to anything.
