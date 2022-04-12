@@ -9,7 +9,7 @@
 
 This category contains options that will happen after a modal has been submitted.
 
-You can use variables:
+You can use variables in the message:
 
 
 {user.id}: Will be replaced with the user id.
