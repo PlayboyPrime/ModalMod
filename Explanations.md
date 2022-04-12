@@ -8,14 +8,14 @@
 
 This category contains options that will happen after a modal has been submitted.
 
-Variables you can use in sendMessage.channelId:
+## Variables you can use in sendMessage.channelId:
 
 |Variable|Replacement|
 |--------|-----------|
 |{user.dm}|Will send the message to the user.|
 
 
-Variables you can use in replyToinIeraction.message and sendMessage.message:
+## Variables you can use in replyToinIeraction.message and sendMessage.message:
 
 |Variable|Replacement|
 |--------|-----------|
