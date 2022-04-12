@@ -23,7 +23,7 @@ Variables you can use in the message:
 |{user.id}|Will be replaced with the user id.|
 |{user.name}|WIll be replaced with the user name.|
 |{user.discriminator}|Will be replaced with the users discriminator.|
-|{user.avatar_url}:Will be replaced with the users avater url.|
+|{user.avatar_url}|Will be replaced with the users avater url.|
 |{input}|Will be replaced with all of the inputs with the input name togheter.|
 |{input.a}|Will be replaced with the first input.|
 |{input.b}|Will be replaced with the second input.|
