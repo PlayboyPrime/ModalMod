@@ -25,7 +25,7 @@ channelId: This will be the channelId where a message will be send. Leave blank 
 message: This will be the message content. Leave blank for no message.
 
 
-interActionCustomId: IF interaction is triggerd with this customId THEN this modal will be shown. 
+interActionCustomId: If a interaction is triggerd with this customId then this modal will be shown. 
 ![image](https://user-images.githubusercontent.com/55946112/162878525-3ad63a35-f394-41f5-a020-189015280563.png)
 
 Title: This will be the Modal Title.
