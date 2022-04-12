@@ -11,6 +11,7 @@ This category contains options that will happen after a modal has been submitted
 
 You can use variables:
 
+
 {user.id}: Will be replaced with the user id.
 
 {user.name}: WIll be replaced with the user name.
