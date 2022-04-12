@@ -9,7 +9,13 @@
 
 This category contains options that will happen after a modal has been submitted.
 
-You can use variables in the message:
+Variables you can use in ChannelId:
+
+
+{user.dm}: Will send the message to the user.
+
+
+Variables you can use in the message:
 
 
 {user.id}: Will be replaced with the user id.
