@@ -32,9 +32,11 @@ You can use variables:
 
 {input.e}: Will be replaced with the fifth input.
 
-{guild.name}: Will be replaced with the guild name where the modal was submitted.
+{guild.name}: Will be replaced with the guild name.
 
-{guild.id}: Will be replaced with the guild id where the modal was submitted.
+{guild.id}: Will be replaced with the guild id.
+
+{guild.member_count}: Will be replaced with the guild member count.
 
 
 ## replyToinIeraction
