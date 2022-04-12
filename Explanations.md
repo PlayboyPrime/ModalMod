@@ -37,7 +37,7 @@ Variables you can use in the message:
 
 ## replyToinIeraction
 
-![image](https://user-images.githubusercontent.com/55946112/162878422-151491f4-dbe2-4121-a856-b443ecbf52a8.png)
+![image](https://user-images.githubusercontent.com/55946112/163046736-352649ec-9b22-4c5e-9316-0e70d0d59974.png)
  
 
 
