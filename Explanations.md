@@ -4,6 +4,7 @@
 submit
 
 replyToinIeraction
+
 ![image](https://user-images.githubusercontent.com/55946112/162878422-151491f4-dbe2-4121-a856-b443ecbf52a8.png)
  
 
@@ -15,6 +16,7 @@ message: This string will be sent in the interaction channel as a reply to the i
 
 
 sendMessage 
+
 ![image](https://user-images.githubusercontent.com/55946112/162878468-1cb60ea1-f026-48c0-a1c3-a77eb122b014.png)
 
 
@@ -26,6 +28,7 @@ message: This will be the message content. Leave blank for no message.
 
 
 interActionCustomId: If a interaction is triggerd with this customId then this modal will be shown. 
+
 ![image](https://user-images.githubusercontent.com/55946112/162878525-3ad63a35-f394-41f5-a020-189015280563.png)
 
 Title: This will be the Modal Title.
@@ -34,6 +37,7 @@ CustomId: This will be the customId for the Modal. You can set this to anything.
 
 
 addComponents You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2) 
+
 ![image](https://user-images.githubusercontent.com/55946112/162878556-df20d151-051a-49ae-b671-1ba87aa3a477.png)
 
 
