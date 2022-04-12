@@ -11,11 +11,16 @@ This category contains options that will happen after a modal has been submitted
 
 Variables you can use in ChannelId:
 
-
-{user.dm}: Will send the message to the user.
+|Variable|Replacement|
+|--------|-----------|
+|{user.dm}|Will send the message to the user.|
 
 
 Variables you can use in the message:
+
+|Variable|Replacement|
+|--------|-----------|
+|{user.id}|Will be replaced with the user id.|
 
 
 {user.id}: Will be replaced with the user id.
