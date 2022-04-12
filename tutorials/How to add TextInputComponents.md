@@ -11,7 +11,7 @@ Examples:
 # Copy
 ![image](https://user-images.githubusercontent.com/55946112/162881678-fcf41d8a-7774-4dff-85cb-2f0ba266a674.png)
 
-# Paste
+# Paste and rename
 ![image](https://user-images.githubusercontent.com/55946112/162881779-8a337a11-4e42-4e2d-96e8-5e771dd9254d.png)
 
 # Add comma
