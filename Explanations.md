@@ -65,7 +65,7 @@ Style: short or long. short is a one-line input box. long has 3 lines and more s
 
 MinLength: 0 to 4000. this will be the amount of characters the user has to write in this input before it can be submited.
 
-MaxLength: 1-4000. This will be the maximum of characters the user can write in this input.
+MaxLength: 1 to 4000. This will be the maximum of characters the user can write in this input.
 
 Placeholder: This will be the placeholder of the input.
 
