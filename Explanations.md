@@ -58,7 +58,7 @@ message: This string will be sent as a reply to the submit interaction.
 
 If sendMessage.channelId and sendMessage.message is not empty, the bot will send a message to a channel.
 
-channelId: This will be the channelId where the message will be sent. Leave this blank for no message.
+channelId: This will be the channelId or {user.dm} where the message will be sent. Leave this blank for no message.
 
 message: This will be the message content. Leave this blank for no message.
 
@@ -84,7 +84,7 @@ CustomId: This will be the customId for the Modal. You can set this to anything.
 
 
 
- You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 etc) 
+ You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 and so on) 
 
 ## TextInputComponent
 
