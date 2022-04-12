@@ -69,4 +69,4 @@ MaxLength: 1 to 4000. This will be the maximum of characters the user can write 
 
 Placeholder: This will be the placeholder of the input.
 
-Required: If this is true the user has to write something in this field before it can be submited.
+Required: If this is true the user has to write something in this input before it can be submited.
