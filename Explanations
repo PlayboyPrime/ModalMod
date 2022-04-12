@@ -1,0 +1,48 @@
+# CONFIG EXPLANATION
+
+submit
+
+replyToinIeraction
+
+
+If replyToinIeraction.message is not undefined.
+
+ephemeral: IF true only the modal Author can see the reply.
+
+message: This string will be sent in the interaction channel as a reply to the interaction.
+
+
+sendMessage
+
+If sendMessage.channelId and sendMessage.message is not undefined.
+
+channelId: This will be the channelId where a message will be send. Leave blank for no message.
+
+message: This will be the message content. Leave blank for no message.
+
+
+interActionCustomId: IF interaction is triggerd with this customId THEN this modal will be shown.
+
+Title: This will be the Modal Title.
+
+CustomId: This will be the customId for the Modal. You can set this to anything.
+
+
+addComponents You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2)
+
+TextInputComponent
+
+
+CustomId: This will be the customId for the TextInputComponent. You can set this to anything.
+
+Label: This will be the Label for the TextInputComponent.
+
+Style: short or long. short is a one-line input box. long has 3 lines and more space to write.
+
+MinLength: 0 to 4000. this will be the amount of characters the user has to write in this input before it can be submited.
+
+MaxLength: 1-4000. This will be the maximum of characters the user can write in this input.
+
+Placeholder: This will be the placeholder of the input.
+
+Required: If this is true the user has to write something in this field before it can be submited.
