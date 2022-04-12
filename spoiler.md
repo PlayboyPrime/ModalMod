@@ -1,4 +1,4 @@
-# Spoilers. THESE ARE CHANGABLE
+# Spoilers. THESE ARE CHANGEABLE
 
 ![image](https://user-images.githubusercontent.com/55946112/162889025-eba8a108-8fc5-454f-89a4-79f4ac0984cd.png)
 
