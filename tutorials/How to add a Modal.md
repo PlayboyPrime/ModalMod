@@ -6,7 +6,7 @@ Finnaly add a comma after the bracket from the modal above.
 
 Example:
 
-![image](https://user-images.githubusercontent.com/55946112/162882175-10ddc37d-d7b9-4e02-8dd8-e8a1373ff015.png)
+![image](https://user-images.githubusercontent.com/55946112/163051111-8a7454ef-887f-4839-b34e-4e5f42590654.png)
 
 # Copy
 ![image](https://user-images.githubusercontent.com/55946112/162882192-f3aeb345-a40e-4900-a119-a6704edaa9d8.png)
