@@ -2,7 +2,7 @@ First you have to navigate to the config.json file.
 
 Then copy an already exisiting TextInputComponent and paste it under it and rename it correctly.
 
-Now aber bracket of the component above you have to add an comma.
+Now after the bracket of the component above you have to type an comma.
 
 Examples:
 
