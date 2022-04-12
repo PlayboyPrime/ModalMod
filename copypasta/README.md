@@ -12,7 +12,7 @@ Dont forget to add an comma!
         "submit": {
 
             "replyToinIeraction": {
-                "ephemeral": false,
+                "ephemeral": "",
                 "message": ""
             },
 
@@ -22,7 +22,7 @@ Dont forget to add an comma!
             }
         },
 
-        "interactionCustomId": "modal",
+        "interactionCustomId": "",
         "Title": "",
         "CustomId": "",
         "addComponents": {
@@ -38,13 +38,13 @@ Dont forget to add an comma!
 
 ```json
 "TextInputComponent1": {
-    "CustomId": "input1",
+    "CustomId": "",
     "Label": "",
     "Style": "",
-    "MinLength": "0",
-    "MaxLength": "1",
+    "MinLength": "",
+    "MaxLength": "",
     "Placeholder": "",
-    "Required": "false"
+    "Required": ""
 }
 ```
 
