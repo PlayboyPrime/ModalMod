@@ -79,7 +79,7 @@ CustomId: This will be the customId for the Modal. You can set this to anything.
 
 ## addComponents
 
-![image](https://user-images.githubusercontent.com/55946112/162880498-76e024c3-f85c-4bd9-9c2d-037b6fccc654.png)
+![image](https://user-images.githubusercontent.com/55946112/163047069-4cdb5297-2db4-452e-83a7-6b4d59766e36.png)
 
 
 
