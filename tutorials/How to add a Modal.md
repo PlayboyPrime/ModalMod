@@ -8,13 +8,13 @@ Finnaly add a comma after the bracket from the modal above.
 
 Example:
 
-![image](https://user-images.githubusercontent.com/55946112/163051111-8a7454ef-887f-4839-b34e-4e5f42590654.png)
+![image](https://user-images.githubusercontent.com/55946112/163071969-09036a4b-200b-4861-95ce-afe4fe3bd475.png)
 
 # Copy
-![image](https://user-images.githubusercontent.com/55946112/163051633-c4b2ec03-4ee2-4f04-8a19-65f852642bf2.png)
+![image](https://user-images.githubusercontent.com/55946112/163071996-ea7ecc46-2100-447f-a638-72bb0bcf361d.png)
 
 # Paste and rename
-![image](https://user-images.githubusercontent.com/55946112/163052037-aea2c5cc-7f67-4001-ba63-5ee1033cfae9.png)
+![image](https://user-images.githubusercontent.com/55946112/163072032-4515be8b-9f0a-4a77-be16-9cecb5878489.png)
 
 # Add comma
-![image](https://user-images.githubusercontent.com/55946112/163052245-01fbfc08-23c0-40cd-8793-51560027cc98.png)
+![image](https://user-images.githubusercontent.com/55946112/163072049-7672d363-4efb-4c0f-bd41-c3d844d60a72.png)
