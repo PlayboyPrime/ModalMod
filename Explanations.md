@@ -12,16 +12,27 @@ This category contains options that will happen after a modal has been submitted
 You can use variables:
 
 {user.id}: Will be replaced with the user id.
+
 {user.name}: WIll be replaced with the user name.
+
 {user.discriminator}: Will be replaced with the users discriminator.
+
 {user.avatar_url}: Will be replaced with the users avater url.
+
 {input}: Will be replaced with all of the inputs with the input name togheter.
+
 {input.a}: Will be replaced with the first input.
+
 {input.b}: Will be replaced with the second input.
+
 {input.c}: Will be replaced with the third input.
+
 {input.d}: Will be replaced with the fourth input.
+
 {input.e}: Will be replaced with the fifth input.
+
 {guild.name}: Will be replaced with the guild name where the modal was submitted.
+
 {guild.id}: Will be replaced with the guild id where the modal was submitted.
 
 
