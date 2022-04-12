@@ -34,12 +34,12 @@ This category contains options that will happen after a modal has been submitted
 |{guild.member_count}|Will be replaced with the guild member count.|
 
 
-## replyToinIeraction
+## replyToInteraction
 
-![image](https://user-images.githubusercontent.com/55946112/163046736-352649ec-9b22-4c5e-9316-0e70d0d59974.png)
+![image](https://user-images.githubusercontent.com/55946112/163071718-093cbc50-4c29-4a75-a8ec-2dc4ff62932b.png)
  
 
-If replyToinIeraction.message is not empty, the bot will send a reply to the submit interaction.
+If replyToInteraction.message is not empty, the bot will send a reply to the submit interaction.
 
 ephemeral: If true, only the Modal author can see the reply.
 
