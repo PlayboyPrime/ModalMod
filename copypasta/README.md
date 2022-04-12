@@ -1,6 +1,6 @@
 # Here are the modules you can copy paste into config.json
 
-Dont forget to add an comma!
+Dont forget rename it and add an comma!
 
 
 ## Modal
