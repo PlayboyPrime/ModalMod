@@ -10,7 +10,7 @@ replyToinIeraction
 
 If replyToinIeraction.message is not undefined.
 
-ephemeral: IF true only the modal Author can see the reply.
+ephemeral: If true only the modal Author can see the reply.
 
 message: This string will be sent in the interaction channel as a reply to the interaction.
 
