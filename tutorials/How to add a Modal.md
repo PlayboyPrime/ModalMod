@@ -4,7 +4,7 @@ Then you have to copy a modal and paste it after the second last bracket and ren
 
 Finnaly add a comma after the bracket from the modal above.
 
-Examples:
+Example:
 
 ![image](https://user-images.githubusercontent.com/55946112/162882175-10ddc37d-d7b9-4e02-8dd8-e8a1373ff015.png)
 
