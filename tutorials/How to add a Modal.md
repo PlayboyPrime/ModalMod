@@ -1,3 +1,5 @@
+# You can find the modules in [copypasta](https://github.com/PlayboyPrime/ModalMod/tree/main/copypasta)
+
 First you have to navigate to the config.json file.
 
 Then you have to copy a modal and paste it after the second last bracket and rename it upcounting (modal1, modal2 and so on).
