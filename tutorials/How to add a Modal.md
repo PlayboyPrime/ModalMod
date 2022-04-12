@@ -8,7 +8,7 @@ Finnaly add a comma after the bracket from the modal above.
 
 Example:
 
-![image](https://user-images.githubusercontent.com/55946112/163071969-09036a4b-200b-4861-95ce-afe4fe3bd475.png)
+![image](https://user-images.githubusercontent.com/55946112/163072197-70d36751-bef6-4ecf-bcd1-886cadc26443.png)
 
 # Copy
 ![image](https://user-images.githubusercontent.com/55946112/163071996-ea7ecc46-2100-447f-a638-72bb0bcf361d.png)
