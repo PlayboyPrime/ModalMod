@@ -3,8 +3,7 @@
 
 ## submit
 
-![image](https://user-images.githubusercontent.com/55946112/162883098-36910246-707e-4376-b22c-d5e4ab130e54.png)
-
+![image](https://user-images.githubusercontent.com/55946112/163048665-d46a5460-3b82-4b2e-9971-efcb47efa632.png)
 
 
 This category contains options that will happen after a modal has been submitted.
@@ -40,8 +39,6 @@ Variables you can use in replyToinIeraction.message and sendMessage.message:
 ![image](https://user-images.githubusercontent.com/55946112/163046736-352649ec-9b22-4c5e-9316-0e70d0d59974.png)
  
 
-
-
 If replyToinIeraction.message is not empty, the bot will send a reply to the submit interaction.
 
 ephemeral: If true, only the Modal author can see the reply.
@@ -52,8 +49,6 @@ message: This string will be sent as a reply to the submit interaction.
 ## sendMessage 
 
 ![image](https://user-images.githubusercontent.com/55946112/162878468-1cb60ea1-f026-48c0-a1c3-a77eb122b014.png)
-
-
 
 
 If sendMessage.channelId and sendMessage.message is not empty, the bot will send a message to a channel.
@@ -68,8 +63,6 @@ message: This will be the message content. Leave this blank for no message.
 
 
 
-
-
 interactionCustomId: If a button interaction is triggerd with this customId, then this modal will be shown. 
 
 Title: This will be the Modal Title.
@@ -80,8 +73,6 @@ CustomId: This will be the customId for the Modal. You can set this to anything.
 ## addComponents
 
 ![image](https://user-images.githubusercontent.com/55946112/163047069-4cdb5297-2db4-452e-83a7-6b4d59766e36.png)
-
-
 
 
  You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 and so on) 
