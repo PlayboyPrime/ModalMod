@@ -3,7 +3,7 @@
 
 ## submit
 
-![image](https://user-images.githubusercontent.com/55946112/163048665-d46a5460-3b82-4b2e-9971-efcb47efa632.png)
+![image](https://user-images.githubusercontent.com/55946112/163049363-4251914b-d556-4adb-8830-d310d5db0a59.png)
 
 
 This category contains options that will happen after a modal has been submitted.
