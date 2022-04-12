@@ -4,7 +4,7 @@ Then copy an already exisiting TextInputComponent and paste it under it and rena
 
 Now after the bracket of the component above you have to type an comma.
 
-Examples:
+Example:
 
 ![image](https://user-images.githubusercontent.com/55946112/162881646-4e6899f3-c3d7-464e-8349-b826569b7145.png)
 
