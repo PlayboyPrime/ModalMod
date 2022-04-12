@@ -1,6 +1,6 @@
 Go to the submit part of config.json and choose wich type of message you want to choose, in this case i will use replyToInteraction.
 
-Check Explainations.md for all variables
+Check [Explainations.md](https://github.com/PlayboyPrime/ModalMod/blob/main/Explanations.md) for all variables
 
 In my case i want to write Thanks (username) for your submission!
 
