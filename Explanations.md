@@ -41,9 +41,9 @@ This category contains options that will happen after a modal has been submitted
 
 If replyToInteraction.message is not empty, the bot will send a reply to the submit interaction.
 
-ephemeral: If true, only the Modal author can see the reply.
+ephemeral: ```true or false``` If true, only the Modal author can see the reply.
 
-message: This string will be sent as a reply to the submit interaction.
+message: This string will be sent as a reply to the submit interaction. Leave blank if you want no reply.
 
 
 ## sendMessage 
@@ -75,7 +75,7 @@ CustomId: This will be the customId for the Modal. You can set this to anything.
 ![image](https://user-images.githubusercontent.com/55946112/163047069-4cdb5297-2db4-452e-83a7-6b4d59766e36.png)
 
 
- You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 and so on) 
+You can add here up to 5 TextInputComponents. Make sure you name them upcounting (TextInputComponent1, TextInputComponent2 and so on) 
 
 ## TextInputComponent
 
@@ -84,7 +84,7 @@ CustomId: This will be the customId for the TextInputComponent. You can set this
 
 Label: This will be the Label for the TextInputComponent.
 
-Style: short or long. short is a one-line input box. long has 3 lines and more space to write.
+Style: short or long. short is a one-line input. long has 3 lines and more space to write.
 
 MinLength: 0 to 4000. this will be the amount of characters the user has to write in this input before it can be submited.
 
@@ -92,4 +92,4 @@ MaxLength: 1 to 4000. This will be the maximum of characters the user can write 
 
 Placeholder: This will be the placeholder of the input.
 
-Required: If this is true the user has to write something in this input before it can be submited.
+Required: ```true or false``` If this is true the user has to write something in this input before it can be submited.
