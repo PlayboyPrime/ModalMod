@@ -13,6 +13,7 @@ This category contains options that will happen after a modal has been submitted
 |Variable|Replacement|
 |--------|-----------|
 |{user.dm}|Will send the message to the user.|
+|{submit.channel}|Will send the message to channel where the modal was submitted.|
 
 
 ## Variables you can use in replyToInteraction.message and sendMessage.message:
