@@ -49,7 +49,7 @@ message: This string will be sent as a reply to the submit interaction. Leave th
 
 ## sendMessage 
 
-![image](https://user-images.githubusercontent.com/55946112/162878468-1cb60ea1-f026-48c0-a1c3-a77eb122b014.png)
+![image](https://user-images.githubusercontent.com/55946112/163281823-189605c2-eb4c-4030-b7ea-3f69e65e9d22.png)
 
 
 If sendMessage.channelId and sendMessage.message is not empty, the bot will send a message to a channel.
