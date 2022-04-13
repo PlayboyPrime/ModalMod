@@ -58,7 +58,7 @@ channelId: This will be the channelId or {user.dm} where the message will be sen
 
 message: This will be the message content. Leave this empty for no message.
 
-reactions: ```unicode or emoji id``` ```Seperate with comma.``` The bot will react to this message with these emojis. 
+reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,592396962952293")``` The bot will react to this message with these emojis. 
 
 
 ## sendEmbed
