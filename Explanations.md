@@ -54,7 +54,7 @@ message: This string will be sent as a reply to the submit interaction. Leave th
 
 If sendMessage.channelId and sendMessage.message is not empty, the bot will send a message to a channel.
 
-channelId: This will be the channelId or {user.dm} where the message will be sent. Leave this empty for no message.
+channelId: This will be the channelId or {user.dm} or {submit.channel} where the message will be sent. Leave this empty for no message.
 
 message: This will be the message content. Leave this empty for no message.
 
