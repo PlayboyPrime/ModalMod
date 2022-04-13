@@ -1,7 +1,7 @@
 # ModalMod
 This repo ist about my Discord Bot Studio Modal Mod
 
-[Download](https://github.com/PlayboyPrime/ModalMod/releases)
+### [Download](https://github.com/PlayboyPrime/ModalMod/releases)
 
 Make sure you read the explainations!
 
