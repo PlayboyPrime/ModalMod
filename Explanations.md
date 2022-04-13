@@ -16,7 +16,7 @@ This category contains options that will happen after a modal has been submitted
 |{submit.channel}|Will send the message to channel where the modal was submitted.|
 
 
-## Variables you can use in replyToInteraction.message and sendMessage.message:
+## Variables you can use in replyToInteraction.message, sendMessage.message and sendEmbed(title, author and description):
 
 |Variable|Replacement|
 |--------|-----------|
