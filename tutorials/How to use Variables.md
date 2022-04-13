@@ -1,4 +1,5 @@
 ## Check [Explainations.md](https://github.com/PlayboyPrime/ModalMod/blob/main/Explanations.md) for all variables
+***
 
 Go to the submit part of config.json and choose wich type of message you want. In this case I will use replyToInteraction.
 
