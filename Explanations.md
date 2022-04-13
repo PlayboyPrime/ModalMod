@@ -77,6 +77,8 @@ If sendEmbed.channelId is not empty, the bot will send an embed to a channel.
 
 channelId: This will be the channelId or {user.dm} or {submit.channel} where the message will be sent. Leave this empty for no message.
 
+reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,7589125185128")``` The bot will react to this message with these emojis. 
+
 Everything else should be self explanatory.
 
 
