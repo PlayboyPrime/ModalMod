@@ -84,12 +84,12 @@ CustomId: This will be the customId for the TextInputComponent. You can set this
 
 Label: This will be the Label for the TextInputComponent.
 
-Style: short or long. short is a one-line input. long has 3 lines and more space to write.
+Style: ```short or long``` short is a one-line input. long has 3 lines and more space to write.
 
-MinLength: 0 to 4000. this will be the amount of characters the user has to write in this input before it can be submited.
+MinLength: ```0 to 4000``` this will be the amount of characters the user has to write in this input before it can be submited.
 
-MaxLength: 1 to 4000. This will be the maximum of characters the user can write in this input.
+MaxLength: ```1 to 4000``` This will be the maximum of characters the user can write in this input.
 
-Placeholder: This will be the placeholder of the input.
+Placeholder: This will be the placeholder of the input. Leave blank for no Placeholder
 
 Required: ```true or false``` If this is true the user has to write something in this input before it can be submited.
