@@ -10,7 +10,7 @@ This category contains options that will happen after a modal has been submitted
 
 ## Variables you can use in sendMessage.channelId and sendEmbed.channelId:
 
-|Variable|Replacement|
+|Variable|Channel|
 |--------|-----------|
 |{user.dm}|Will send the message to the user.|
 |{submit.channel}|Will send the message to channel where the modal was submitted.|
@@ -67,6 +67,11 @@ reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,59239
 
 
 If sendEmbed.channelId is not empty, the bot will send an embed to a channel.
+
+|Part|Variable|Replacement|
+|----|--------|-----------|
+|Thumbnail & Image|{user.avatar_url}|Will be replaced with the user avatar url.|
+|Thumbnail & Image|{guild.icon}|Will be replaced with the guild icon url.|
 
 channelId: This will be the channelId or {user.dm} or {submit.channel} where the message will be sent. Leave this empty for no message.
 
