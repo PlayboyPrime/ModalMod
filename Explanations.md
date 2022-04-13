@@ -68,6 +68,8 @@ reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,59239
 
 If sendEmbed.channelId is not empty, the bot will send an embed to a channel.
 
+## Variables you can use in sendEmbed
+
 |Part|Variable|Replacement|
 |----|--------|-----------|
 |Thumbnail & Image|{user.avatar_url}|Will be replaced with the user avatar url.|
