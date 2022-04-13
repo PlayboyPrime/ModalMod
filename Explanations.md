@@ -3,7 +3,7 @@
 
 ## submit
 
-![image](https://user-images.githubusercontent.com/55946112/163071661-fed25966-1aa5-4339-b241-12c5c932673b.png)
+![image](https://user-images.githubusercontent.com/55946112/163278941-cd15e2a2-edca-4b9d-82af-5293fe86de98.png)
 
 
 This category contains options that will happen after a modal has been submitted.
@@ -44,7 +44,7 @@ If replyToInteraction.message is not empty, the bot will send a reply to the sub
 
 ephemeral: ```true or false``` If true, only the Modal author can see the reply.
 
-message: This string will be sent as a reply to the submit interaction. Leave blank if you want no reply.
+message: This string will be sent as a reply to the submit interaction. Leave this empty if you want no reply.
 
 
 ## sendMessage 
@@ -54,9 +54,22 @@ message: This string will be sent as a reply to the submit interaction. Leave bl
 
 If sendMessage.channelId and sendMessage.message is not empty, the bot will send a message to a channel.
 
-channelId: This will be the channelId or {user.dm} where the message will be sent. Leave this blank for no message.
+channelId: This will be the channelId or {user.dm} where the message will be sent. Leave this empty for no message.
 
-message: This will be the message content. Leave this blank for no message.
+message: This will be the message content. Leave this empty for no message.
+
+
+## sendEmbed
+
+![image](https://user-images.githubusercontent.com/55946112/163279005-e8e9dbc3-b03d-44c9-a95e-e0dcaeaa9baf.png)
+
+
+If sendEmbed.channelId is not empty, the bot will send an embed to a channel.
+
+channelId: This will be the channelId or {user.dm} or {submit.channel} where the message will be sent. Leave this empty for no message.
+
+Everything else should be self explanatory.
+
 
 ***
 ## Modal properties
@@ -91,6 +104,6 @@ MinLength: ```0 to 4000``` This will be the amount of characters the user has to
 
 MaxLength: ```1 to 4000``` This will be the maximum of characters the user can type in this input.
 
-Placeholder: This will be the placeholder of the input. Leave blank for no placeholder.
+Placeholder: This will be the placeholder of the input. Leave empty for no placeholder.
 
 Required: ```true or false``` If this is true the user has to write something in this input before it can be submited.
