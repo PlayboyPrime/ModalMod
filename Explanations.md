@@ -79,6 +79,8 @@ channelId: This will be the channelId or {user.dm} or {submit.channel} where the
 
 reactions: ```unicode or emoji id``` ```Seperate with comma. Ex("😄,😎,7589125185128")``` The bot will react to this message with these emojis. 
 
+timestamp: ```true or false``` If this is true the embed footer will contain the time when the embed was sent.
+
 Everything else should be self explanatory.
 
 
