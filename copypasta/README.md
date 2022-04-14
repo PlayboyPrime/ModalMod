@@ -1,5 +1,7 @@
 # Here are the modules you can copy paste into config.json
 
+### Version 1.0.0
+
 Dont forget rename it and add an comma!
 
 
