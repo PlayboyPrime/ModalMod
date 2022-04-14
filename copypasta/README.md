@@ -2,7 +2,7 @@
 
 ### Version 1.0.0
 
-Dont forget rename it and add an comma!
+Dont forget rename it upcounting and add an comma!
 ---
 
 
