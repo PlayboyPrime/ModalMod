@@ -8,7 +8,7 @@
 
 This category contains options that will happen after a modal has been submitted.
 
-## Variables you can use in sendMessage.channelId and sendEmbed.channelId:
+## Variables you can use in sendMessage.channelId & sendEmbed.channelId % sendEmbed.channelId:
 
 |Variable|Channel|
 |--------|-----------|
@@ -16,7 +16,7 @@ This category contains options that will happen after a modal has been submitted
 |{submit.channel}|Will send the message to channel where the modal was submitted.|
 
 
-## Variables you can use in replyToInteraction.message, sendMessage.message and sendEmbed(title, author and description):
+## Variables you can use in replyToInteraction.message, sendMessage.message & sendEmbed(title, author & description):
 
 |Variable|Replacement|
 |--------|-----------|
