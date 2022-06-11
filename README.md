@@ -1,3 +1,5 @@
+# This is and event mod and wont show in add response in dbs. Everything needs to be set in config.json
+
 # ModalMod
 This repo ist about my Discord Bot Studio ModalMod mod
 
