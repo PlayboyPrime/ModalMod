@@ -1,3 +1,5 @@
+# MOD IS OUTDATED / NOT WORKING ANYMORE
+
 # This is a event mod and wont show in add response. Everything needs to be set in config.json
 
 # ModalMod
